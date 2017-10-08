@@ -1,0 +1,9 @@
+Package: com.dgh0st.ncalwayschevron
+Name: NCAlwaysChevron
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Always display the chevron view in the notification center instead of switching to page control.
+Maintainer: DGh0st <deeppwnage@yahoo.com>
+Author: DGh0st <deeppwnage@yahoo.com>
+Section: Tweaks
